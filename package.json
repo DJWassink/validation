@@ -3,17 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@types/jest": "^23.3.9",
-    "@types/node": "^10.12.9",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "rxjs": "6.3.3"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.9",
+    "@types/node": "^11.10.4",
     "@types/react": "16.7.6",
-    "@types/react-cache": "^2.0.0",
     "@types/react-dom": "16.0.9",
-    "react": "^16.7.0-alpha.2",
-    "react-cache": "^2.0.0-alpha.1",
-    "react-dom": "^16.7.0-alpha.2",
-    "react-scripts": "2.1.1",
-    "rxjs": "^6.3.3",
-    "typescript": "^3.1.6"
+    "react-scripts": "^2.1.5",
+    "typescript": "^3.3.3333"
   },
   "scripts": {
     "start": "react-scripts start",
